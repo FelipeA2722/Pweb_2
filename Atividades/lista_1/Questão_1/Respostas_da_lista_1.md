@@ -21,4 +21,10 @@ resumo de resolução
 
 - b) a questão dois quis me aprofundar um pouco na utiliade do javaScript junto com o html 5 fiz com que os dados no html fossem para o codigo para o calculo, uma supresa me pareceu bem semelhante ao que utilizava no materia de mobile do semestre passado o que deveria pegar o id do xml puxar no codigo fazendo uma variavel para ele. Para obter esse conhecimento tive auxilho de inteligencia artifficial.
 
-- c)
+- c) nessa não teve tanta mudaça das outras apenas copiei a estrutura e mudei os dados pode se dizer
+
+- d) essa tentei brincar um pouco não queria usar lista ainda então resolvi usar while quase como uma criação de variaveis dinamica esta pouco pratico mais ja tinha feito um parecido em python antes queria ve se conseguiria fazer aqui parecido.
+
+## questão 3
+
+- a)
