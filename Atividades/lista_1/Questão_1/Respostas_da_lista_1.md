@@ -29,4 +29,6 @@ resumo de resolução
 
 - a) nessa questão escolhir usar switch que um dos pouco momentos que pode se usar ela particulamente prefiro o if else mais matenho a estrutura fresca na memoria mesmo que não use
 
--b)
+- b) nessa questã quis testar similaridades com outras liguagem usando split que ja usei em python para separar os numeros e poder pegar todos em unica variavel e testei um pouco da lista no javaScript para começa a me acostumar com a estruturar. utilizei o chat para auxilio para um melhor uso do split para cria a lista de uma vez
+
+- c)
