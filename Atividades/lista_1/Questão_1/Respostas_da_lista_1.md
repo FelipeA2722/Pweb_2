@@ -27,4 +27,6 @@ resumo de resolução
 
 ## questão 3
 
-- a)
+- a) nessa questão escolhir usar switch que um dos pouco momentos que pode se usar ela particulamente prefiro o if else mais matenho a estrutura fresca na memoria mesmo que não use
+
+-b)
